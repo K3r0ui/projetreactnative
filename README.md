@@ -3,11 +3,11 @@ tutorial by [@Krw](https://github.com/K3r0ui)
 To run this project, you need to install:
 
 ```
-1-  Install Nodejs LTS version
+ Install Nodejs LTS version
 * ( Ubuntu User / Debian User)  : 
-$ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+1-  $ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
-* ( Windows User ) : [link](https://nodejs.org/en/download/)
+* ( Windows User ) : [@link](https://nodejs.org/en/download/)
 $ npm install
 $ npm start
 ```
