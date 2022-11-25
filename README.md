@@ -1,3 +1,13 @@
-## Sources
-This app is inspired by Rando Kim book „Time of Your Life”
-and Android app tutorial by [@Krw](https://github.com/K3r0ui)
+tutorial by [@Krw](https://github.com/K3r0ui)
+## Dependecies Needed
+To run this project, you need to install:
+
+```
+1-  Install Nodejs LTS version
+* ( Ubuntu User / Debian User)  : 
+$ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+sudo apt-get install -y nodejs
+* ( Windows User ) : [link](https://nodejs.org/en/download/)
+$ npm install
+$ npm start
+```
